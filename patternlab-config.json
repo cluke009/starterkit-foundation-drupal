@@ -62,15 +62,15 @@
       "scss": "./source/_assets/scss"
     },
     "public": {
-      "root": "pl/",
-      "patterns": "pl/patterns/",
-      "data": "pl/styleguide/data/",
-      "annotations": "pl/annotations/",
-      "styleguide": "pl/styleguide/",
-      "js": "pl/js",
-      "images": "pl/images",
-      "fonts": "pl/fonts",
-      "css": "pl/css"
+      "root": "public/",
+      "patterns": "public/patterns/",
+      "data": "public/styleguide/data/",
+      "annotations": "public/annotations/",
+      "styleguide": "public/styleguide/",
+      "js": "public/js",
+      "images": "public/images",
+      "fonts": "public/fonts",
+      "css": "public/css"
     }
   },
   "patternExtension": "twig",
