@@ -55,11 +55,11 @@
         "patternSectionSubgroup": "views/partials/patternSectionSubgroup.mustache",
         "viewall": "views/viewall.mustache"
       },
+      "js": "./source/_assets/js",
+      "images": "./source/_assets/img",
       "fonts": "./source/_assets/fonts",
       "icons": "./source/_assets/icons",
-      "images": "./source/_assets/img",
-      "js": "./source/_assets/js",
-      "scss": "./source/_assets/scss"
+      "css": "./source/_assets/scss"
     },
     "public": {
       "root": "public/",
