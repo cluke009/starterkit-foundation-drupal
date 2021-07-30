@@ -151,6 +151,13 @@
           "paths": [
             "./source/_patterns/pages"
           ]
+        },
+        {
+          "id": "macros",
+          "recursive": true,
+          "paths": [
+            "source/_macros"
+          ]
         }
       ],
       "alterTwigEnv": [
