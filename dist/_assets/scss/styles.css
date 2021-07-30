@@ -1,0 +1,32 @@
+.bg-color--primary {
+  background-color: #1779ba;
+}
+.bg-color--secondary {
+  background-color: #767676;
+}
+.bg-color--success {
+  background-color: #3adb76;
+}
+.bg-color--warning {
+  background-color: #ffae00;
+}
+.bg-color--alert {
+  background-color: #cc4b37;
+}
+.sg-colors > div {
+    padding: 0.3em;
+    margin: 0 0.5em 0.5em 0;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.sg-swatch {
+    display: block;
+    height: 4em;
+    margin-bottom: 0.3em;
+    border-radius: 5px;
+}
+.sg-label {
+    font-size: 90%;
+    line-height: 1;
+}
